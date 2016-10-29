@@ -1,0 +1,8 @@
+Uniersity Laboratories - late 2015~
+1 - couple historical cyphers implemented
+2 - tests of ecb and cbc encryption and decryption (time based on input file size), cbc implementation is based on ecb
+3 - most popular hash functions tests, self implemented hash function
+4 - implementation of RSA
+5 - implementation of BlumBlumShub, mouse moves based random generator, randomness tests
+6 - video steganography, came up with algorithm and implemented it - encryption/decryption - encrypted video size is huge
+7 - visual steganography - based on 2 files

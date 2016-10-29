@@ -1,0 +1,150 @@
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\Stegonography.exe.config
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\Stegonography.exe
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\Stegonography.pdb
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Controls.dll
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.dll
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Fuzzy.dll
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Genetic.dll
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Imaging.dll
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.MachineLearning.dll
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Math.dll
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Neuro.dll
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Robotics.Lego.dll
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Robotics.Surveyor.dll
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Robotics.TeRK.dll
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Video.dll
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Video.VFW.dll
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Vision.dll
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\IPPrototyper.exe
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.xml
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Controls.xml
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Fuzzy.xml
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Genetic.xml
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Imaging.xml
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.MachineLearning.xml
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Math.xml
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Neuro.xml
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Video.xml
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Video.VFW.xml
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\AForge.Vision.xml
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\obj\Debug\Stegonography.exe
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\obj\Debug\Stegonography.pdb
+C:\Users\BRZ\Desktop\TFS\Assignment\Stegonography\Stegonography\obj\Debug\Stegonography.csprojResolveAssemblyReference.cache
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\Stegonography.exe.config
+F:\POD\cw8 steganografia\Stegonography\Stegonography\obj\Debug\Stegonography.exe
+F:\POD\cw8 steganografia\Stegonography\Stegonography\obj\Debug\Stegonography.pdb
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\Stegonography.exe
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\Stegonography.pdb
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Controls.dll
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.dll
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Fuzzy.dll
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Genetic.dll
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Imaging.dll
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Imaging.Formats.dll
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Imaging.IPPrototyper.dll
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.MachineLearning.dll
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Math.dll
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Neuro.dll
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Robotics.Lego.dll
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Robotics.Surveyor.dll
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Robotics.TeRK.dll
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Video.DirectShow.dll
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Video.dll
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Video.FFMPEG.dll
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Video.Kinect.dll
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Video.VFW.dll
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Video.Ximea.dll
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Vision.dll
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\IPPrototyper.exe
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.xml
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Controls.xml
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Fuzzy.xml
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Genetic.xml
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Imaging.xml
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Imaging.Formats.xml
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.MachineLearning.xml
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Math.xml
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Neuro.xml
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Robotics.Lego.xml
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Robotics.Surveyor.xml
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Robotics.TeRK.xml
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Video.xml
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Video.DirectShow.xml
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Video.FFMPEG.xml
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Video.Kinect.xml
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Video.VFW.xml
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Video.Ximea.xml
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Vision.xml
+F:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+F:\POD\cw8 steganografia\Stegonography\Stegonography\obj\Debug\Stegonography.csprojResolveAssemblyReference.cache
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\Stegonography.exe.config
+G:\POD\cw8 steganografia\Stegonography\Stegonography\obj\Debug\Stegonography.exe
+G:\POD\cw8 steganografia\Stegonography\Stegonography\obj\Debug\Stegonography.pdb
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\Stegonography.exe
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\Stegonography.pdb
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Controls.dll
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.dll
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Fuzzy.dll
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Genetic.dll
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Imaging.dll
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Imaging.Formats.dll
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Imaging.IPPrototyper.dll
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.MachineLearning.dll
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Math.dll
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Neuro.dll
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Robotics.Lego.dll
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Robotics.Surveyor.dll
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Robotics.TeRK.dll
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Video.DirectShow.dll
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Video.dll
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Video.FFMPEG.dll
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Video.Kinect.dll
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Video.VFW.dll
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Video.Ximea.dll
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Vision.dll
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\IPPrototyper.exe
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.xml
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Controls.xml
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Fuzzy.xml
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Genetic.xml
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Imaging.xml
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Imaging.Formats.xml
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.MachineLearning.xml
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Math.xml
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Neuro.xml
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Robotics.Lego.xml
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Robotics.Surveyor.xml
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Robotics.TeRK.xml
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Video.xml
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Video.DirectShow.xml
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Video.FFMPEG.xml
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Video.Kinect.xml
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Video.VFW.xml
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Video.Ximea.xml
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\AForge.Vision.xml
+G:\POD\cw8 steganografia\Stegonography\Stegonography\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+G:\POD\cw8 steganografia\Stegonography\Stegonography\obj\Debug\Stegonography.csprojResolveAssemblyReference.cache
+C:\Users\BRZYDAL\Desktop\UniversitySecurityLabs\6 - Steganography\Stegonography\Stegonography\bin\Debug\Stegonography.exe.config
+C:\Users\BRZYDAL\Desktop\UniversitySecurityLabs\6 - Steganography\Stegonography\Stegonography\obj\Debug\Stegonography.exe
+C:\Users\BRZYDAL\Desktop\UniversitySecurityLabs\6 - Steganography\Stegonography\Stegonography\obj\Debug\Stegonography.pdb

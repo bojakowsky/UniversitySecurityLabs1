@@ -1,0 +1,17 @@
+C:\Documents and Settings\lab_ac1\Pulpit\Trololo\Trololo\bin\Debug\Trololo.exe
+C:\Documents and Settings\lab_ac1\Pulpit\Trololo\Trololo\bin\Debug\Trololo.pdb
+C:\Documents and Settings\lab_ac1\Pulpit\Trololo\Trololo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lab_ac1\Pulpit\Trololo\Trololo\obj\x86\Debug\Trololo.exe
+C:\Documents and Settings\lab_ac1\Pulpit\Trololo\Trololo\obj\x86\Debug\Trololo.pdb
+G:\POD\Cw3\Trololo\Trololo\obj\x86\Debug\Trololo.exe
+G:\POD\Cw3\Trololo\Trololo\obj\x86\Debug\Trololo.pdb
+G:\POD\Cw3\Trololo\Trololo\bin\Debug\Trololo.exe
+G:\POD\Cw3\Trololo\Trololo\bin\Debug\Trololo.pdb
+G:\POD\Cw3\Trololo\Trololo\obj\x86\Debug\Trololo.csprojResolveAssemblyReference.cache
+F:\POD\Cw3\Trololo\Trololo\obj\x86\Debug\Trololo.exe
+F:\POD\Cw3\Trololo\Trololo\obj\x86\Debug\Trololo.pdb
+C:\Users\BRZYDAL\Desktop\UniversitySecurityLabs\Cw3\Trololo\Trololo\obj\x86\Debug\Trololo.exe
+C:\Users\BRZYDAL\Desktop\UniversitySecurityLabs\Cw3\Trololo\Trololo\obj\x86\Debug\Trololo.pdb
+C:\Users\BRZYDAL\Desktop\UniversitySecurityLabs\Cw3\Trololo\Trololo\bin\Debug\Trololo.exe
+C:\Users\BRZYDAL\Desktop\UniversitySecurityLabs\Cw3\Trololo\Trololo\bin\Debug\Trololo.pdb
+C:\Users\BRZYDAL\Desktop\UniversitySecurityLabs\Cw3\Trololo\Trololo\obj\x86\Debug\Trololo.csprojResolveAssemblyReference.cache
